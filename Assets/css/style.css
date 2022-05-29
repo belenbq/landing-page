@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    background: gray;
+    font-size: 2em;
+    height: 20em;
+    background-image: url("/img/planta\ logo.jpg");
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    padding: 60px;
+}
+
+.div img {
+    width: 100%;
+    height: auto ;
+    vertical-align: middle; 
+  }
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+span {
+    font-weight: 400;
+}
+
+section {
+    margin: 50px; ;
+}
+
+
+.Productos {
+    width: 800px;
+    margin: 100px auto;
+}
+
+.thumbnail {
+    vertical-align: middle;
+}
+.texto {
+    display:inline-block;
+    padding: 40px 15px ;
+
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: silver;
+}
+
+.header h1 {
+    padding: 20px 0;
+    text-transform: uppercase;
+  }
